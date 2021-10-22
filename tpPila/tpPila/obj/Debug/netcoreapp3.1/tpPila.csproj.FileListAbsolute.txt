@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\tpPila\tpPila\bin\Debug\netcoreapp3.1\tpPila.exe
+C:\Users\Usuario\source\repos\tpPila\tpPila\bin\Debug\netcoreapp3.1\tpPila.deps.json
+C:\Users\Usuario\source\repos\tpPila\tpPila\bin\Debug\netcoreapp3.1\tpPila.runtimeconfig.json
+C:\Users\Usuario\source\repos\tpPila\tpPila\bin\Debug\netcoreapp3.1\tpPila.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\tpPila\tpPila\bin\Debug\netcoreapp3.1\tpPila.dll
+C:\Users\Usuario\source\repos\tpPila\tpPila\bin\Debug\netcoreapp3.1\tpPila.pdb
+C:\Users\Usuario\source\repos\tpPila\tpPila\obj\Debug\netcoreapp3.1\tpPila.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\tpPila\tpPila\obj\Debug\netcoreapp3.1\tpPila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\tpPila\tpPila\obj\Debug\netcoreapp3.1\tpPila.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\tpPila\tpPila\obj\Debug\netcoreapp3.1\tpPila.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\tpPila\tpPila\obj\Debug\netcoreapp3.1\tpPila.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\tpPila\tpPila\obj\Debug\netcoreapp3.1\tpPila.dll
+C:\Users\Usuario\source\repos\tpPila\tpPila\obj\Debug\netcoreapp3.1\tpPila.pdb
+C:\Users\Usuario\source\repos\tpPila\tpPila\obj\Debug\netcoreapp3.1\tpPila.genruntimeconfig.cache
